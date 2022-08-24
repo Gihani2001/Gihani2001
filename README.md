@@ -2,7 +2,7 @@
 - 👀 I’m interested in software making 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate with you
-- 📫 How to reach me ...
+- 📫 How to reach me gihanilakshika01@gmail.com
 
 <!---
 Gihani2001/Gihani2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
